@@ -101,8 +101,5 @@ Model dievaluasi berdasarkan:
 - **Penjelasan:** Model mengklasifikasikan teks ini sebagai *Netral* karena kata "seru" memiliki konotasi positif, sedangkan "mengerikan" memiliki konotasi negatif, sehingga secara keseluruhan sentimen menjadi seimbang.
 
 
-## 📝 Lisensi
-Proyek ini dilisensikan di bawah [MIT License](LICENSE).
-
 💡 **Terima kasih!** 🔍🚀
 
